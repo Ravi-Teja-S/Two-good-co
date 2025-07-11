@@ -31,12 +31,12 @@ This is a **frontend-only** project that recreates the award-winning **Two Good 
 
 ## 📁 Project Structure
 
-Two-good-co/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│ └── (images/videos/fonts)
+Two-good-co/<br>
+├── index.html<br>
+├── style.css<br>
+├── script.js<br>
+├── assets/<br>
+│ └── (images/videos/fonts)<br>
 
 
 ## 📝 Inspiration
